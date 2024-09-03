@@ -22,7 +22,6 @@ import img17 from './images/Green and White Modern Travel Youtube Thumbnail (5).
 import img18 from './images/Green and White Modern Travel Youtube Thumbnail (6).png';
 import img19 from './images/Green and White Modern Travel Youtube Thumbnail (7).png';
 import img20 from './images/Green and White Modern Travel Youtube Thumbnail (8).png';
-import img21 from './images/Green and White Modern Travel Youtube Thumbnail (9).png';
 
 
 
@@ -30,84 +29,114 @@ const Data = [
 {
     id: 13,
     imgSrc: img13, 
-    destTitle: 'Bora Bora',
-    location: 'New Zealand',
-    grade: 'CULTURAL RELAX',
-    fees: '$700',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias iure odit cum eius beatae nobisquam facere ad. Sit, ut.'
+    destTitle: 'How to Travel the World on a Budget: Insider Tips!',
+    location: '1M views . 10days ago',
+    
 },
 {
     id: 14,
     imgSrc: img14, 
-    destTitle: 'Bora Bora',
-    location: 'New Zealand',
-    grade: 'CULTURAL RELAX',
-    fees: '$700',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias iure odit cum eius beatae nobisquam facere ad. Sit, ut.'
+    destTitle: 'Top 10 Must-Visit Destinations for Adventure Lovers!',
+    location: '10k views . 20days ago',
+   
 },
 {
     id: 15,
     imgSrc: img15, 
-    destTitle: 'Bora Bora',
-    location: 'New Zealand',
-    grade: 'CULTURAL RELAX',
-    fees: '$700',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias iure odit cum eius beatae nobisquam facere ad. Sit, ut.'
+    destTitle: 'How to Travel the World on a Budget: Insider Tips!',
+    location: '1M views . 10years ago',
+   
 },
 {
     id: 16,
     imgSrc: img16, 
-    destTitle: 'Bora Bora',
-    location: 'New Zealand',
-    grade: 'CULTURAL RELAX',
-    fees: '$700',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias iure odit cum eius beatae nobisquam facere ad. Sit, ut.'
+    destTitle: 'Best Hidden Gems You Didnt Know About Travel Edition',
+    location: '10M views . 10years ago' ,
+   
 },
 {
     id: 17,
     imgSrc: img17, 
-    destTitle: 'Bora Bora',
-    location: 'New Zealand',
-    grade: 'CULTURAL RELAX',
-    fees: '$700',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias iure odit cum eius beatae nobisquam facere ad. Sit, ut.'
+    destTitle: 'Ultimate Travel Hacks for 2024 – Save Time and Money!',
+    location: '11M views . 10years ago',
 },
+   
 {
     id: 18,
     imgSrc: img18, 
-    destTitle: 'Bora Bora',
-    location: 'New Zealand',
-    grade: 'CULTURAL RELAX',
-    fees: '$700',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias iure odit cum eius beatae nobisquam facere ad. Sit, ut.'
+    destTitle: 'The Most Beautiful Beaches in the World Ranked',
+    location: '100M views . 100years ago',
+    
 },
 {
     id: 19,
     imgSrc: img19, 
-    destTitle: 'Bora Bora',
-    location: 'New Zealand',
-    grade: 'CULTURAL RELAX',
-    fees: '$700',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias iure odit cum eius beatae nobisquam facere ad. Sit, ut.'
+    destTitle: 'How to Pack Like a Pro: Travel Essentials You Need',
+    location: '1 views . 10years ago',
 },
 {
     id: 20,
     imgSrc: img20, 
-    destTitle: 'Bora Bora',
-    location: 'New Zealand',
-    grade: 'CULTURAL RELAX',
-    fees: '$700',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias iure odit cum eius beatae nobisquam facere ad. Sit, ut.'
+    destTitle: 'Traveling Solo: The Ultimate Guide for First-Timers',
+    location: '100k views . 1day ago',
+   
 },
 {
-    id: 21,
-    imgSrc: img21, 
-    destTitle: 'Bora Bora',
-    location: 'New Zealand',
-    grade: 'CULTURAL RELAX',
-    fees: '$700',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias iure odit cum eius beatae nobisquam facere ad. Sit, ut.'
-},    
+    id: 14,
+    imgSrc: img14, 
+    destTitle: 'Traveling with Kids: Tips for a Stress-Free Vacation',
+    location: '1M views . 10days ago',
+   
+},
+{
+    id: 16,
+    imgSrc: img16, 
+    destTitle: 'Top 10 Overrated Travel Destinations – Are They Worth It?',
+    location: '1M views . 10days ago',
+   
+},
+{
+    id: 13,
+    imgSrc: img13, 
+    destTitle: 'My Crazy Travel Stories: You Won’t Believe What Happened!',
+    location: '1M views . 10days ago',
+    
+},
+{
+    id: 18,
+    imgSrc: img18, 
+    destTitle: 'Top 5 Travel Mistakes to Avoid – Dont Let This Happen to You',
+    location: '1M views . 10days ago',
+    
+},  
+{
+    id: 16,
+    imgSrc: img16, 
+    destTitle: 'Best Hidden Gems You Didnt Know About Travel Edition',
+    location: '10M views . 10years ago' ,
+   
+},
+{
+    id: 17,
+    imgSrc: img17, 
+    destTitle: 'Ultimate Travel Hacks for 2024 – Save Time and Money!',
+    location: '11M views . 10years ago',
+},
+   
+{
+    id: 18,
+    imgSrc: img18, 
+    destTitle: 'The Most Beautiful Beaches in the World Ranked',
+    location: '100M views . 100years ago',
+    
+},
+{
+    id: 19,
+    imgSrc: img19, 
+    destTitle: 'How to Pack Like a Pro: Travel Essentials You Need',
+    location: '1 views . 10years ago',
+},
+ 
 ];
 const Home = () =>{
     return(
@@ -123,6 +152,21 @@ const Home = () =>{
         <CgProfile className="icons"/>
 
         </div>
+        <div className="navbar">
+            <ul>
+                <li>All</li>
+                <li>Music</li>
+                <li>Tamil Cinema</li>
+                <li>Web pages</li>
+                <li>Gaming</li>
+                <li>Computers</li>
+                <li>News</li>
+                <li>Live</li>
+                <li>Test</li>
+                <li>Album</li>
+                <li>Watched</li>
+            </ul>
+        </div>
         <div className="part">
             <div className="part1">
             <FaHome className="icons1" />
@@ -136,7 +180,7 @@ const Home = () =>{
             <div className="part2">
                 <section className="text">
                     <div className="basic">
-                        {Data.map(({ id, imgSrc, destTitle, location, grade, fees, description }) => (
+                        {Data.map(({ id, imgSrc, destTitle, location}) => (
                             <div key={id} className="singleDestination">
                                 <div className="imageDiv">
                                     <img src={imgSrc} alt={destTitle} /> 
