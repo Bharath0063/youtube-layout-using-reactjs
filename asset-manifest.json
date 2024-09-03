@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/youtube-layout-using-reactjs/static/css/main.7c07d027.css",
-    "main.js": "/youtube-layout-using-reactjs/static/js/main.8c03e337.js",
+    "main.css": "/youtube-layout-using-reactjs/static/css/main.ddcd1d8d.css",
+    "main.js": "/youtube-layout-using-reactjs/static/js/main.07979fe3.js",
     "static/js/453.e6071ca8.chunk.js": "/youtube-layout-using-reactjs/static/js/453.e6071ca8.chunk.js",
-    "static/media/Green and White Modern Travel Youtube Thumbnail (9).png": "/youtube-layout-using-reactjs/static/media/Green and White Modern Travel Youtube Thumbnail (9).2c59cd72e98d9c706722.png",
     "static/media/Green and White Modern Travel Youtube Thumbnail (6).png": "/youtube-layout-using-reactjs/static/media/Green and White Modern Travel Youtube Thumbnail (6).73f9b401983812dc769d.png",
     "static/media/Green and White Modern Travel Youtube Thumbnail (4).png": "/youtube-layout-using-reactjs/static/media/Green and White Modern Travel Youtube Thumbnail (4).910d2d9e631b329af100.png",
     "static/media/Green and White Modern Travel Youtube Thumbnail (3).png": "/youtube-layout-using-reactjs/static/media/Green and White Modern Travel Youtube Thumbnail (3).f47083f0d822844490c1.png",
@@ -14,12 +13,12 @@
     "static/media/Green and White Modern Travel Youtube Thumbnail (10).png": "/youtube-layout-using-reactjs/static/media/Green and White Modern Travel Youtube Thumbnail (10).a18e55694b38ffeacaf9.png",
     "static/media/logo.svg": "/youtube-layout-using-reactjs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/youtube-layout-using-reactjs/index.html",
-    "main.7c07d027.css.map": "/youtube-layout-using-reactjs/static/css/main.7c07d027.css.map",
-    "main.8c03e337.js.map": "/youtube-layout-using-reactjs/static/js/main.8c03e337.js.map",
+    "main.ddcd1d8d.css.map": "/youtube-layout-using-reactjs/static/css/main.ddcd1d8d.css.map",
+    "main.07979fe3.js.map": "/youtube-layout-using-reactjs/static/js/main.07979fe3.js.map",
     "453.e6071ca8.chunk.js.map": "/youtube-layout-using-reactjs/static/js/453.e6071ca8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c07d027.css",
-    "static/js/main.8c03e337.js"
+    "static/css/main.ddcd1d8d.css",
+    "static/js/main.07979fe3.js"
   ]
 }
